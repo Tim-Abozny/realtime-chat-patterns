@@ -4,6 +4,19 @@ A study project demonstrating three real-time communication patterns in JavaScri
 
 Each approach implements a simple chat application with the same UI but a different underlying transport mechanism.
 
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [1. Long Polling](#1-long-polling)
+- [2. Server-Sent Events (SSE)](#2-server-sent-events-sse)
+- [3. WebSocket](#3-websocket)
+- [Comparison](#comparison)
+- [Switching Between Modes](#switching-between-modes)
+  - [Server](#server)
+  - [Client](#client)
+
+---
+
 ## Project Structure
 
 ```
